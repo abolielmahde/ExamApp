@@ -1,0 +1,2 @@
+# ExamApp
+This file describes the application features and use cases.
