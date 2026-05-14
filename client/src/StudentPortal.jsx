@@ -21,7 +21,12 @@ function StudentPortal() {
             </div>
           ))}
 
-          <button className="btn btn-primary mt-2">Submit Exam</button>
+          <button
+            className="btn btn-primary mt-2"
+            onClick={() => alert("Exam submitted successfully!")}
+          >
+            Submit Exam
+          </button>
         </div>
       ))}
     </div>
